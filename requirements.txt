@@ -7,4 +7,4 @@ pandas_ta
 schedule
 streamlit
 selenium
-numpy == 1.26.4
+# numpy == 1.26.4
